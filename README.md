@@ -79,7 +79,6 @@ PROGETTO
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Arduino][arduino.cc/]][https://www.arduino.cc/]
-* [![React][React.js]][React-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -94,29 +93,33 @@ To get a copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Install Arduino in you PC then run the script
 * npm
   ```sh
-  npm install npm@latest -g
+  sudo sh install.sh
   ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Hardware:
+Connect all the cables, good luck.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Software:
+
+Install the download the V3 Voice recognition library from here: https://www.elechouse.com/elechouse/images/product/VR3/VoiceRecognitionV3.zip
+
+Include the library in Arduino
+
+Open Proj1_Arduino and Upload. Then follow the instructuions in the image : 
+
+Open
+
+
+How to modify our project:
+
+Open the file vr_sample_train.ino from Arduino in order to train other words
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
