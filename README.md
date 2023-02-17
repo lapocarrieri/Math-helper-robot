@@ -16,16 +16,13 @@
   <p align="center">
     An awesome robot to answer your problems!
    
-<div align="center"> 
-<img src="results/gifs/tracking.gif" width="70%"/>
+
 
 ![image](https://user-images.githubusercontent.com/56505429/219650755-4a317944-b5c3-4098-bed0-b6c9659bcb7a.png)
 
 ![image](https://user-images.githubusercontent.com/56505429/219650781-25931cfe-3ffe-4f03-b9af-bb127301e1ba.png)
 
 ![image](https://user-images.githubusercontent.com/56505429/219650825-d12620f3-160a-4c34-97eb-b8e06e3536a6.png)
-
-https://user-images.githubusercontent.com/56505429/219650570-41cf772a-9c77-401d-8007-df8f2282d92a.mp4
 
 
 
@@ -71,6 +68,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
+https://user-images.githubusercontent.com/56505429/219650570-41cf772a-9c77-401d-8007-df8f2282d92a.mp4
+
 
 Instructions on setting up the project manually.
 To get a copy up and running follow these simple example steps.
