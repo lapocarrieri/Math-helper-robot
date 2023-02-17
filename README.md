@@ -18,13 +18,7 @@
    
 
 
-![image](https://user-images.githubusercontent.com/56505429/219650755-4a317944-b5c3-4098-bed0-b6c9659bcb7a.png | width=100)
-
-![image](https://user-images.githubusercontent.com/56505429/219650781-25931cfe-3ffe-4f03-b9af-bb127301e1ba.png)
-
-![image](https://user-images.githubusercontent.com/56505429/219650825-d12620f3-160a-4c34-97eb-b8e06e3536a6.png)
-
-
+![image](https://user-images.githubusercontent.com/56505429/219650755-4a317944-b5c3-4098-bed0-b6c9659bcb7a.png )
 
 <!-- TABLE OF CONTENTS -->
 <details>
