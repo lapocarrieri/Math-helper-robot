@@ -19,12 +19,14 @@
 <div align="center"> 
 <img src="results/gifs/tracking.gif" width="70%"/>
 
+![image](https://user-images.githubusercontent.com/56505429/219650755-4a317944-b5c3-4098-bed0-b6c9659bcb7a.png)
 
-https://user-images.githubusercontent.com/56505429/219650238-ae02bf90-c78e-4402-a3d1-5b326ad8997a.mp4
+![image](https://user-images.githubusercontent.com/56505429/219650781-25931cfe-3ffe-4f03-b9af-bb127301e1ba.png)
 
+![image](https://user-images.githubusercontent.com/56505429/219650825-d12620f3-160a-4c34-97eb-b8e06e3536a6.png)
 
+https://user-images.githubusercontent.com/56505429/219650570-41cf772a-9c77-401d-8007-df8f2282d92a.mp4
 
-Uploading video5906758811544194547 (1).mp4…
 
 
 
