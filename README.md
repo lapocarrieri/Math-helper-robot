@@ -18,7 +18,6 @@
    
 
 
-![image](https://user-images.githubusercontent.com/56505429/219650755-4a317944-b5c3-4098-bed0-b6c9659bcb7a.png )
 
 <!-- TABLE OF CONTENTS -->
 <details>
