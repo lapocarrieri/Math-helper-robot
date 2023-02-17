@@ -16,7 +16,8 @@
   <p align="center">
     An awesome robot to answer your problems!
    
-
+<div align="center"> 
+<img src="results/gifs/tracking.gif" width="70%"/>
 
 
 <!-- TABLE OF CONTENTS -->
