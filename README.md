@@ -1,5 +1,5 @@
 
-
+Project realized for the course in Cognitive interaction with robots 
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
